@@ -3,12 +3,11 @@
 ## 🎓 About Me
 Penn State grad (2020) who started my career in Technology Risk Consulting at Ernst & Young. After earning my Master's in Cybersecurity from Yeshiva University, I've been working in GRC while building hands-on technical skills. Now pivoting back toward technical roles and documenting my learning journey here.
 
-## 💼 Professional Experience
-**Current Focus:** GRC & Risk Assessment
+💼 **Professional Experience**
 
-**Background:** Technology Risk Consulting @ EY → GRC Analyst @ Squarespace
-
-**Education:** MS Cybersecurity (Yeshiva) | BS Management Information Systems (Penn State)
+- **Current Focus:** GRC & Risk Assessment  
+- **Background:** Technology Risk Consulting @ EY → GRC Analyst @ Squarespace  
+- **Education:** MS Cybersecurity (Yeshiva) | BS Management Information Systems (Penn State)
 
 ## 🔧 Skills & Technologies
 **Networking:** Cisco Packet Tracer, VLANs, Routing & Switching, Subnetting, TCP/IP 
