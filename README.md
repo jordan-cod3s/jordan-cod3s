@@ -1,7 +1,7 @@
 # Hi, I'm Jordan 👋
 
 ## About Me
-Penn State grad (2020) who started my career in Technology Risk Consulting at Ernst & Young. After earning my Master's in Cybersecurity from Yeshiva University, I've been working in GRC while building hands-on technical skills. Now pivoting back toward technical roles and documenting my learning journey here.
+Penn State grad (2020) who started my career in Technology Risk Consulting at Ernst & Young. After earning my Master's in Cybersecurity from Yeshiva University, I've been working in GRC while building hands-on technical skills. 
 
 **Professional Experience**
 
